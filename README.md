@@ -21,7 +21,7 @@ You can find some examples in action over at https://github.com/zappar-xr/test-u
          * [Waiting for console logs](#waiting-for-console-logs)
          * [Compare Screenshots](#compare-screenshots)
 
-<!-- Added by: zapparadmin, at: Fri Apr  9 15:16:59 BST 2021 -->
+<!-- Added by: zapparadmin, at: Fri Apr  9 15:25:27 BST 2021 -->
 
 <!--te-->
 </details>

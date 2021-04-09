@@ -1,7 +1,7 @@
 {
   "name": "@zappar/test-utils",
   "version": "0.0.0",
-  "description": "Redirect desktop users to mobile using QR Codes",
+  "description": "Screenshot and console test utilities for jest/puppeteer",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -14,11 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/zappar-xr/test-utils.git"
   },
-  "keywords": [
-    "qrcode",
-    "mobile",
-    "redirect"
-  ],
+  "keywords": [],
   "files": [
     "README.md",
     "CHANGELOG.md",
